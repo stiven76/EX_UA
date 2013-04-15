@@ -1,3 +1,6 @@
+0.9.5.5
+fixed volume OSD on D-series
+
 0.9.5.4
 add status-line on player mode
 cosmetic changes for volume/mute for D-Series
